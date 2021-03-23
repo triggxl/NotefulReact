@@ -35,3 +35,5 @@ const FoldersService = {
 }
 
 module.exports = FoldersService
+
+// client is making a GET request to /folders and /notes....undefined id error need to figure out why it's throwing this error....use Postman to make requests to each endpoint to figure out why each route isn't working
